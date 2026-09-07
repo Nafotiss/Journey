@@ -3,7 +3,7 @@
 A minimalist, aesthetically immersive "ritual tracker" designed to help you cultivate consistency through daily practice.
 
 ## 🌿 The Vision
-Evolved from the "Daily Five" concept, **Journey** focuses on the ritual itself. It combines a serene, glassmorphic interface with a focused tracking experience, featuring a monk mascot and a lotus arc to ground the user in their daily journey.
+**Journey** focuses on the ritual itself. It combines a serene, glassmorphic interface with a focused tracking experience, featuring a monk mascot and a lotus arc to ground the user in their daily journey.
 
 ## ✨ Features
 - **Stand-alone Experience:** The entire application is contained within a single HTML file (including all assets, styles, and scripts).
